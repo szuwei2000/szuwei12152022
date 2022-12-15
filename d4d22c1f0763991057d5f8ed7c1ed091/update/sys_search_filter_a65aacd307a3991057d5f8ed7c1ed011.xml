@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Task">965aacd307a3991057d5f8ed7c1ed004</ais_search_source>
+        <label>Task</label>
+        <name>Task</name>
+        <order>100</order>
+        <search_context_config display_value="szuweiapp1 AI Search Configuration">9c5a2cd3cda39910630fc6e3efe67e74</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>szuwei</sys_created_by>
+        <sys_created_on>2022-12-08 20:59:17</sys_created_on>
+        <sys_id>a65aacd307a3991057d5f8ed7c1ed011</sys_id>
+        <sys_name>Task</sys_name>
+        <sys_package display_value="szuweiapp1" source="x_936470_szuweia_0">d4d22c1f0763991057d5f8ed7c1ed091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuweiapp1">d4d22c1f0763991057d5f8ed7c1ed091</sys_scope>
+        <sys_update_name>sys_search_filter_a65aacd307a3991057d5f8ed7c1ed011</sys_update_name>
+    </sys_search_filter>
+</record_update>

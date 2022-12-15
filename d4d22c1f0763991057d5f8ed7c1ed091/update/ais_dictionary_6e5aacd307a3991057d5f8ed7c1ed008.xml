@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>task</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>szuweiapp1 search profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_936470_szuweia_0_szuweiapp1_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>NEW</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>szuwei</sys_created_by>
+        <sys_created_on>2022-12-08 20:59:16</sys_created_on>
+        <sys_id>6e5aacd307a3991057d5f8ed7c1ed008</sys_id>
+        <sys_name>x_936470_szuweia_0_szuweiapp1_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="szuweiapp1" source="x_936470_szuweia_0">d4d22c1f0763991057d5f8ed7c1ed091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuweiapp1">d4d22c1f0763991057d5f8ed7c1ed091</sys_scope>
+        <sys_update_name>ais_dictionary_6e5aacd307a3991057d5f8ed7c1ed008</sys_update_name>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

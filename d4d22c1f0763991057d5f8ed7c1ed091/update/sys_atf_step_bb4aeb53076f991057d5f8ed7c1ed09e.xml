@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Assert that the text 'Unassigned Tasks' is on the page.
+With a failure timeout of 60 Seconds</description>
+        <display_name>Assert Text on Page (Custom UI)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <step_config display_value="Assert Text on Page (Custom UI)">475e0de3d732130089fca2285e610361</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>sakthi</sys_created_by>
+        <sys_created_on>2022-12-09 10:58:27</sys_created_on>
+        <sys_id>bb4aeb53076f991057d5f8ed7c1ed09e</sys_id>
+        <sys_name>Assert Text on Page (Custom UI)</sys_name>
+        <sys_package display_value="szuweiapp1" source="x_936470_szuweia_0">d4d22c1f0763991057d5f8ed7c1ed091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuweiapp1">d4d22c1f0763991057d5f8ed7c1ed091</sys_scope>
+        <sys_update_name>sys_atf_step_bb4aeb53076f991057d5f8ed7c1ed09e</sys_update_name>
+        <table/>
+        <test display_value="My New Test">0af96753076f991057d5f8ed7c1ed0be</test>
+        <timeout>1970-01-01 00:01:00</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=bb4aeb53076f991057d5f8ed7c1ed09e"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>bb4aeb53076f991057d5f8ed7c1ed09e</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>sakthi</sys_created_by>
+        <sys_created_on>2022-12-09 10:58:27</sys_created_on>
+        <sys_id>076a6f53076f991057d5f8ed7c1ed05a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sakthi</sys_updated_by>
+        <sys_updated_on>2022-12-09 10:58:27</sys_updated_on>
+        <value>text_on_page</value>
+        <variable display_value="Assert Type">86e4f05cd703130089fca2285e610307</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>bb4aeb53076f991057d5f8ed7c1ed09e</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>sakthi</sys_created_by>
+        <sys_created_on>2022-12-09 10:58:27</sys_created_on>
+        <sys_id>0f6a6f53076f991057d5f8ed7c1ed05a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sakthi</sys_updated_by>
+        <sys_updated_on>2022-12-09 10:58:27</sys_updated_on>
+        <value>21.0</value>
+        <variable display_value="Custom UI version">4a49b1d3b700101044026848ee11a980</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>bb4aeb53076f991057d5f8ed7c1ed09e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>sakthi</sys_created_by>
+        <sys_created_on>2022-12-09 10:58:27</sys_created_on>
+        <sys_id>cf6a6f53076f991057d5f8ed7c1ed05a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sakthi</sys_updated_by>
+        <sys_updated_on>2022-12-09 10:58:27</sys_updated_on>
+        <value>Unassigned Tasks</value>
+        <variable display_value="Text">1c267c5cd703130089fca2285e61035b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_475e0de3d732130089fca2285e610361^id=bb4aeb53076f991057d5f8ed7c1ed09e"/>
+</record_update>
