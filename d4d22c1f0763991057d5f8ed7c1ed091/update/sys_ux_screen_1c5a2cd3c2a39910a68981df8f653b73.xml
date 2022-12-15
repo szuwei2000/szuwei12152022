@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="szuweiapp1 Config">505a2cd35aa39910f5ce9371bbfd7d7a</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="KPI Details">ed7ad8a1c313101001a6e0dd9740ddd1</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false,
+  "sysId" : "",
+  "views" : "",
+  "selectedTabIndex" : 0,
+  "table" : "",
+  "mode" : "",
+  "listView" : ""
+}</macroponent_config>
+        <name>KPI Details default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="KPI Details">905a2cd3eca39910ceb1d2ad3a2b4579</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>szuwei</sys_created_by>
+        <sys_created_on>2022-12-08 20:59:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1c5a2cd3c2a39910a68981df8f653b73</sys_id>
+        <sys_name>KPI Details default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="szuweiapp1" source="x_936470_szuweia_0">d4d22c1f0763991057d5f8ed7c1ed091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuweiapp1">d4d22c1f0763991057d5f8ed7c1ed091</sys_scope>
+        <sys_update_name>sys_ux_screen_1c5a2cd3c2a39910a68981df8f653b73</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1c5a2cd3c2a39910a68981df8f653b73"/>
+</record_update>

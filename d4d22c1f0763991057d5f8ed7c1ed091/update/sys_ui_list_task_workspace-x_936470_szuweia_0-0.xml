@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="task" version="2" view="Workspace-szuweiapp1-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="105a2cd3b4a39910ce94415e85727176">be5aacd307a3991057d5f8ed7c1ed06f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>szuwei</sys_created_by>
+            <sys_created_on>2022-12-08 20:59:18</sys_created_on>
+            <sys_id>f65aacd307a3991057d5f8ed7c1ed071</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>szuwei</sys_updated_by>
+            <sys_updated_on>2022-12-08 20:59:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="105a2cd3b4a39910ce94415e85727176">be5aacd307a3991057d5f8ed7c1ed06f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>szuwei</sys_created_by>
+            <sys_created_on>2022-12-08 20:59:18</sys_created_on>
+            <sys_id>325aacd307a3991057d5f8ed7c1ed072</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>szuwei</sys_updated_by>
+            <sys_updated_on>2022-12-08 20:59:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="105a2cd3b4a39910ce94415e85727176">be5aacd307a3991057d5f8ed7c1ed06f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>szuwei</sys_created_by>
+            <sys_created_on>2022-12-08 20:59:18</sys_created_on>
+            <sys_id>365aacd307a3991057d5f8ed7c1ed072</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>szuwei</sys_updated_by>
+            <sys_updated_on>2022-12-08 20:59:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="105a2cd3b4a39910ce94415e85727176">be5aacd307a3991057d5f8ed7c1ed06f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>szuwei</sys_created_by>
+            <sys_created_on>2022-12-08 20:59:18</sys_created_on>
+            <sys_id>3a5aacd307a3991057d5f8ed7c1ed072</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>szuwei</sys_updated_by>
+            <sys_updated_on>2022-12-08 20:59:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="105a2cd3b4a39910ce94415e85727176">be5aacd307a3991057d5f8ed7c1ed06f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>szuwei</sys_created_by>
+            <sys_created_on>2022-12-08 20:59:18</sys_created_on>
+            <sys_id>f25aacd307a3991057d5f8ed7c1ed07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>szuwei</sys_updated_by>
+            <sys_updated_on>2022-12-08 20:59:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="105a2cd3b4a39910ce94415e85727176">be5aacd307a3991057d5f8ed7c1ed06f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>szuwei</sys_created_by>
+            <sys_created_on>2022-12-08 20:59:18</sys_created_on>
+            <sys_id>f65aacd307a3991057d5f8ed7c1ed07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>szuwei</sys_updated_by>
+            <sys_updated_on>2022-12-08 20:59:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>szuwei</sys_created_by>
+            <sys_created_on>2022-12-08 20:59:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be5aacd307a3991057d5f8ed7c1ed06f</sys_id>
+            <sys_name>task</sys_name>
+            <sys_package display_value="szuweiapp1" source="x_936470_szuweia_0">d4d22c1f0763991057d5f8ed7c1ed091</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="szuweiapp1">d4d22c1f0763991057d5f8ed7c1ed091</sys_scope>
+            <sys_update_name>sys_ui_list_task_Workspace-x_936470_szuweia_0-0</sys_update_name>
+            <sys_user/>
+            <view display_value="Workspace szuweiapp1 0" name="Workspace-szuweiapp1-0">105a2cd3b4a39910ce94415e85727176</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

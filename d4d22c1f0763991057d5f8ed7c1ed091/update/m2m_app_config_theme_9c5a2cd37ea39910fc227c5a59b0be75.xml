@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>szuwei</sys_created_by>
+        <sys_created_on>2022-12-08 20:59:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9c5a2cd37ea39910fc227c5a59b0be75</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="szuweiapp1" source="x_936470_szuweia_0">d4d22c1f0763991057d5f8ed7c1ed091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuweiapp1">d4d22c1f0763991057d5f8ed7c1ed091</sys_scope>
+        <sys_update_name>m2m_app_config_theme_9c5a2cd37ea39910fc227c5a59b0be75</sys_update_name>
+        <theme display_value="Starter Workspace Theme">145a2cd318a3991006c485db4b64b274</theme>
+        <ux_app_configuration display_value="szuweiapp1 Config">505a2cd35aa39910f5ce9371bbfd7d7a</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

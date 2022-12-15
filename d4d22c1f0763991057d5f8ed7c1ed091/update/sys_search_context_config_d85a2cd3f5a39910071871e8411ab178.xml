@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <evam_definition/>
+        <genius_results_limit/>
+        <hit_highlighting>false</hit_highlighting>
+        <name>szuweiapp1 - Workspace Search</name>
+        <search_engine>zing</search_engine>
+        <search_profile/>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>false</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>szuwei</sys_created_by>
+        <sys_created_on>2022-12-08 20:59:09</sys_created_on>
+        <sys_id>d85a2cd3f5a39910071871e8411ab178</sys_id>
+        <sys_name>szuweiapp1 - Workspace Search</sys_name>
+        <sys_package display_value="szuweiapp1" source="x_936470_szuweia_0">d4d22c1f0763991057d5f8ed7c1ed091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuweiapp1">d4d22c1f0763991057d5f8ed7c1ed091</sys_scope>
+        <sys_update_name>sys_search_context_config_d85a2cd3f5a39910071871e8411ab178</sys_update_name>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=d85a2cd3f5a39910071871e8411ab178"/>
+</record_update>

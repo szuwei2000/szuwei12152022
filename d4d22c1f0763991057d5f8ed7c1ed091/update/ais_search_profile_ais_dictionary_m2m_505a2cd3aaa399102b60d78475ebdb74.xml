@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_stop_word_dictionary">9865058bc7031010d1cfd9795cc26037</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="szuweiapp1 search profile">585a2cd3eca39910d0e93a80a4c1a279</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>szuwei</sys_created_by>
+        <sys_created_on>2022-12-08 20:59:09</sys_created_on>
+        <sys_id>505a2cd3aaa399102b60d78475ebdb74</sys_id>
+        <sys_name>default_stop_word_dictionary.szuweiapp1 search profile</sys_name>
+        <sys_package display_value="szuweiapp1" source="x_936470_szuweia_0">d4d22c1f0763991057d5f8ed7c1ed091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuweiapp1">d4d22c1f0763991057d5f8ed7c1ed091</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_505a2cd3aaa399102b60d78475ebdb74</sys_update_name>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

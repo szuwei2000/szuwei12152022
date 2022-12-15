@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource display_value="Task Table">de5aacd307a3991057d5f8ed7c1ed000</datasource>
+        <field>number</field>
+        <source>task</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>szuwei</sys_created_by>
+        <sys_created_on>2022-12-08 20:59:17</sys_created_on>
+        <sys_id>2a5aacd307a3991057d5f8ed7c1ed018</sys_id>
+        <sys_name>task.number</sys_name>
+        <sys_package display_value="szuweiapp1" source="x_936470_szuweia_0">d4d22c1f0763991057d5f8ed7c1ed091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuweiapp1">d4d22c1f0763991057d5f8ed7c1ed091</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_2a5aacd307a3991057d5f8ed7c1ed018</sys_update_name>
+        <value>title</value>
+    </ais_datasource_field_attribute>
+</record_update>

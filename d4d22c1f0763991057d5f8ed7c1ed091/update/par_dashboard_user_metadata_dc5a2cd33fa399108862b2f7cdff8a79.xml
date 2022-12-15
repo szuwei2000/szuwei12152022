@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="INSERT_OR_UPDATE">
+        <created_by_user display_value="Szu-Wei Chao">48d9b0d907ef911057d5f8ed7c1ed017</created_by_user>
+        <created_on>2022-05-29 16:29:20</created_on>
+        <dashboard display_value="szuweiapp1">d45a2cd338a399102eba57db98b6bb73</dashboard>
+        <last_updated_on>2022-05-29 16:56:20</last_updated_on>
+        <requested_by_user/>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>szuwei</sys_created_by>
+        <sys_created_on>2022-12-08 20:59:09</sys_created_on>
+        <sys_id>dc5a2cd33fa399108862b2f7cdff8a79</sys_id>
+        <sys_name/>
+        <sys_package display_value="szuweiapp1" source="x_936470_szuweia_0">d4d22c1f0763991057d5f8ed7c1ed091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuweiapp1">d4d22c1f0763991057d5f8ed7c1ed091</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_dc5a2cd33fa399108862b2f7cdff8a79</sys_update_name>
+        <updated_by_user display_value="Szu-Wei Chao">48d9b0d907ef911057d5f8ed7c1ed017</updated_by_user>
+    </par_dashboard_user_metadata>
+</record_update>
